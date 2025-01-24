@@ -36,4 +36,7 @@
 - Replace `-\n(\d{2})\n` with `\n\1.-  ` to deal with the hypen (used to indicate the breaking of words across lines)
 
 As a final step number all unnumbered lines from 1 through to the end of the text. 5 10 15 20 will already be correct with the above suggested change and replaces.
+1.  - remember the dot whitespace 
+2. 
+3. 
 You may of course find a much more efficient way of doing all this.
