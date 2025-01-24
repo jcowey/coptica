@@ -22,6 +22,9 @@
 ## Abbreviations
 - Replace `(\w+)\/` with `(\1( ))`
 
+## Dealing with `.`
+- Replace `\.+` with `.x` where x= the number of dots. So `....` => `.4` make allowance for white space between dots: so `..` => `.2` but also `. .` => `.2`
+
 ## Signs
 - Replace `⳨` with `*rho-cross*`
 - Replace `+` with `*stauros*`
