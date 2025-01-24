@@ -16,7 +16,7 @@
 - Replace `\[(\w+)\n` with `[\1] [.?]\n`
 - Replace `\[\n` with `[.?]\n`
 
-## ``-` to indicate word break
+## `-` to indicate word break
 - Replace `-]\n` with `]\n.- `
 
 ## Signs
