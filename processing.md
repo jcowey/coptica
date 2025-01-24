@@ -26,3 +26,4 @@
 - Replace `·` with `*middot*`
 - Replace `⳿` with `*word-sep-apostrophe*`
 - Replace `ⲓ̈` with ` ⲓ(¨)`
+- Replace `:` with `*dipunct*`
