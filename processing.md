@@ -6,7 +6,7 @@
 ## Line numbering
 - Replace `\n(\d{2})\n` with `\n\1. ` for the numerals `10|15|20` etc
 - Replace `\n(\d{1})\n` with `\n\1. ` for the numeral `5`
-- Replace `-\n(\d{2})\n` with `\n\1.-  `
+- Replace `-\n(\d{2})\n` with `\n\1.-  ` to deal with the hypen (used to indicate the breaking of words across lines)
 
 ## Signs
 - Replace `⳨` with `*rho-cross*`
