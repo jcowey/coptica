@@ -19,6 +19,9 @@
 ## `-` to indicate word break
 - Replace `-]\n` with `]\n.- `
 
+## Abbreviations
+- Replace `(\w+)\/` with `(\1( ))`
+
 ## Signs
 - Replace `⳨` with `*rho-cross*`
 - Replace `+` with `*stauros*`
