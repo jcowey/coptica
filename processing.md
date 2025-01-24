@@ -4,7 +4,8 @@
 - Replace `\d{3}` with `P.Mon.Epiph. \1`
 
 ## Line numbering
-- Replace `\n(\d{2})\n` with `\n\1. `
+- Replace `\n(\d{2})\n` with `\n\1. ` for the numerals `10|15|20` etc
+- Replace `\n(\d{1})\n` with `\n\1. ` for the numeral `5`
 - Replace `-\n(\d{2})\n` with `\n\1.-  `
 
 ## Signs
