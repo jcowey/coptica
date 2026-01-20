@@ -6,4 +6,4 @@ This a template which can be used and modified for any translation.
 
 ## Examples
 Here is an example which should offer comparable material.
--[P.Mon.Epiph 107]()
+- [P.Mon.Epiph 107](https://github.com/jcowey/coptica/blob/main/pMonEpiph_107.md)
