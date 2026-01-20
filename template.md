@@ -36,7 +36,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change when="2024-01-16T08:21:29-04:00"                                   <!-- change date accordingly -->
+            <change when="2026-01-16T08:21:29-04:00"                                   <!-- change date accordingly -->
                 who="http://papyri.info/editor/users/mgelmaghrabi">Uploaded translation from the volume with added line breaks</change>
         </revisionDesc>
     </teiHeader>
