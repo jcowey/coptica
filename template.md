@@ -55,3 +55,9 @@
     </text>
 </TEI>
 ```
+
+Please remember to be sure that the submitted file name has the suffix `.xml`.
+
+So `86640.xml` : https://github.com/papyri/idp.data/blob/master/HGV_trans_EpiDoc/86640.xml
+
+
