@@ -33,7 +33,7 @@ Below is the table taken from:
 |P.Nepheros | 15–16 | 2 | Pps | Middle Egypt | S | mid-4 th c | Melitian monastery |
 |P.Ryl.Copt. | 267–410, 413–415, 460–461 | 149 | Pps, Ppr, Pmt | various | B, S, F, Lo | 4 th –11 th c | various |
 |P.Sarga | 86–120 | 35 | Po, Li | Wādī Sarga south of Asyūṭ | S | c. 6 th –8 th c | monastic |
-|P.Teshlot | | 4 | Ppr | Daḫlūt, south of Ashmunein late | S | 11 th c | village community |
+|P.Teshlot | | 4 | Ppr | Daḫlūt, south of Ashmunein | late S | 11 th c | village community |
 |O.Ashm.Copt. | 17–19 | 3 | Po, Li | Theban area | UE S | 7 th –8 th c | various |
 |O.Brit.Mus. Copt. | 17–37 | 21 | Po, Li | Theban area | UE S | 6 th –8 th c | monastic |
 |O.Crum | | 270 | Po, Li | Theban area | UE S | c. 6 th –8 th c | various |
