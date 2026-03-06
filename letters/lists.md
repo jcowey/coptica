@@ -1,6 +1,9 @@
 # Lists
 
-Below is the table taken from: Sebastian Richter, “Coptic letters”. In: Grob, Eva Mira & Kaplony, Andreas (eds.), Documentary letters from the Middle East. The evidence in Greek, Coptic, South Arabian, Pehlevi, and Arabic (1st–15th c CE), Bern (= Asiatische Studien 62,3 (2008), special issue 62/3. 739-770.
+Below is the table taken from: 
+
+ - Sebastian Richter, “Coptic letters”. In: Grob, Eva Mira & Kaplony, Andreas (eds.), Documentary letters from the Middle East. The evidence in Greek, Coptic, South Arabian, Pehlevi, and Arabic (1st–15th c CE), Bern (= Asiatische Studien 62,3 (2008), special issue 62/3. 739-770.
+ - [article online](https://doi.org/10.5169/seals-147789)
 
 
 |Edition | Numbers | Amount | Writing surface | Provenance | Dialect(s) | Dating | Context |
