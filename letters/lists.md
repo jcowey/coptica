@@ -41,4 +41,4 @@ Below is the table taken from:
 |O.Med.Habu. Copt. | 134–217 | 84 | Po, Li | Theban area | UE S | c. 6 th –8 th c | various |
 |O.Theb. | 27–42 | 16 | Po, Li | Theban area | UE S | c. 6 th –8 th c | various |
 |O.Vindob. Copt. | 152–418 | 267 | Po, Li | Theban area | UE S | c. 6 th –8 th c | various|
-|Total|||2534|||||
+|Total||2534||||||
