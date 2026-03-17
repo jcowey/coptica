@@ -1,4 +1,4 @@
-P.CLT 6 (ed. Schiller) https://papyri.info/hgv/85760
+P.CLT 6 (ed. Schiller) :: https://papyri.info/hgv/85760 :: https://archive.org/details/in.ernet.dli.2015.44575/page/n71/mode/2up
 1. *stauros* ⲉⲛ ⲟⲛⲟⲙⲁⲧⲓ ⲧⲟⲩ ⲡⲁⲧⲣⲟⲥ ⲕⲁⲓ ⲧⲟⲩ ⲩⲓⲟⲩ ⲕⲁⲓ ⲧⲟⲩ ⲁ[ⲅⲓⲟⲩ] [.?]
 2. ⲉⲅⲣ\ⲁ/ (ⲙ( ))\ⲓ/ ⲙ\ⲭ/ ⲓⲉ (ⲓ( ))\ⲇ/ ⲍ
 3. *stauros* ϩⲓⲧⲟⲟⲧ̄ⲛ̄ ⲁⲛⲟⲛ ⲛⲉⲧⲛⲁϩⲩⲡⲟⲅⲣⲁⲫⲉ ⲙ̄ⲡⲉⲥⲏⲧ ⲛⲧⲓ̣[ⲕⲟⲓ-]
@@ -90,7 +90,7 @@ P.CLT 6 (ed. Schiller) https://papyri.info/hgv/85760
 86. *stauros* ⲁⲛⲟⲕ ⲁⲅⲛⲁⲧ ⲓ(¨)ⲟⲥ ⲡϣⲏⲣⲉ ⲙ̄ⲡⲙⲁⲕⲁⲣ ⲓ(¨)ⲟⲥ ⲙⲁⲑ ⲓ(¨)ⲁⲥ ϯⲥⲧⲏⲭⲏ ⲁⲧⲓ
 87.‐ ϩⲟⲙⲟⲗⲟⲅ ⲓ(¨)ⲁ ⲡⲣⲟⲥ ⲧⲉⲥϭⲟⲙ *stauros*
 
-P.CLT 7 (ed. Schiller, p. 64-71) https://papyri.info/hgv/85761
+P.CLT 7 (ed. Schiller, p. 64-71) :: https://papyri.info/hgv/85761 :: https://archive.org/details/in.ernet.dli.2015.44575/page/n79/mode/2up
 -3. ⲉ[.?]
 -2. ? [.?]
 -1. ?  ? [.?]
@@ -180,7 +180,7 @@ P.CLT 7 (ed. Schiller, p. 64-71) https://papyri.info/hgv/85761
 83. ? *stauros* ? ⲁⲃⲣⲁⲁⲙ ?
 84. ?   ϩⲁ   ?
 
-P.CLT 9 (ed. Schiller, p. 76-79) https://papyri.info/hgv/85763
+P.CLT 9 (ed. Schiller, p. 76-79) :: https://papyri.info/hgv/85763 :: https://archive.org/details/in.ernet.dli.2015.44575/page/n91/mode/2up
 1. ⲛⲧⲉⲧⲛⲣϫⲟⲉⲓⲥ ⲛⲕⲁ̄ϩ̄ ⲃⲉⲣⲃⲟⲩⲧⲉ ⲧⲏ̣[.?]
 2. ⲉⲛⲉⲩⲧⲱϣ ⲛⲏⲧ̄ⲛ̄ ⲛⲧⲡⲉ ⲉϫ.1[.?]
 3. [.?].1 ⲕϣⲏⲣⲉ ⲙ̄ⲛ̄ⲛϣⲏⲣⲉ ⲛⲛⲉⲕϣ̣[ⲏⲣⲉ] [.?]
