@@ -94,7 +94,7 @@ P.CLT 6 (ed. Schiller) https://papyri.info/hgv/85760
 86. *stauros* ⲁⲛⲟⲕ ⲁⲅⲛⲁⲧ ⲓ(¨)ⲟⲥ ⲡϣⲏⲣⲉ ⲙ̄ⲡⲙⲁⲕⲁⲣ ⲓ(¨)ⲟⲥ ⲙⲁⲑ ⲓ(¨)ⲁⲥ ϯⲥⲧⲏⲭⲏ ⲁⲧⲓ
 87.‐ ϩⲟⲙⲟⲗⲟⲅ ⲓ(¨)ⲁ ⲡⲣⲟⲥ ⲧⲉⲥϭⲟⲙ *stauros*
 
-P.CLT 7 (ed. Schiller, p. 64-71)
+P.CLT 7 (ed. Schiller, p. 64-71) https://papyri.info/hgv/85761
 -3. ⲉ[.?]
 -2. ? [.?]
 -1. ?  ? [.?]
@@ -184,7 +184,7 @@ P.CLT 7 (ed. Schiller, p. 64-71)
 83. ? *stauros* ? ⲁⲃⲣⲁⲁⲙ ?
 84. ?   ϩⲁ   ?
 
-P.CLT 9 (ed. Schiller, p. 76-79)
+P.CLT 9 (ed. Schiller, p. 76-79) https://papyri.info/hgv/85763
 1. ⲛⲧⲉⲧⲛⲣϫⲟⲉⲓⲥ ⲛⲕⲁ̄ϩ̄ ⲃⲉⲣⲃⲟⲩⲧⲉ ⲧⲏ̣[.?]
 2. ⲉⲛⲉⲩⲧⲱϣ ⲛⲏⲧ̄ⲛ̄ ⲛⲧⲡⲉ ⲉϫ.1[.?]
 3. [.?].1 ⲕϣⲏⲣⲉ ⲙ̄ⲛ̄ⲛϣⲏⲣⲉ ⲛⲛⲉⲕϣ̣[ⲏⲣⲉ] [.?]
